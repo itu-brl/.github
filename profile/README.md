@@ -1,8 +1,7 @@
-# ITU BRL · Biomedical Research Lab  
+# ITU BIAI Lab · Biomedical Imaging & AI Lab
 Istanbul Technical University
 
-Welcome to the GitHub space of **ITU BRL — Biomedical Research Lab** at Istanbul Technical University.  
-Under the direction of **Assoc. Prof. Isa Yildirim**, we conduct academic research at the intersection of biomedical imaging, artificial intelligence, and deep learning.
+Welcome to the GitHub space of **ITU BIAI Lab · Biomedical Imaging & AI Lab** at Istanbul Technical University. Under the direction of **Assoc. Prof. Isa Yildirim**, we conduct academic research at the intersection of biomedical imaging, artificial intelligence, and deep learning.
 
 ---
 
