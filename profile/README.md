@@ -1,27 +1,30 @@
-# ITU DBT - Istanbul Technical University Digital Breast Tomosynthesis Research Group
+# ITU BRL · Biomedical Research Lab  
+Istanbul Technical University
 
-Welcome to the GitHub profile of ITU DBT, the Digital Breast Tomosynthesis Research Group at Istanbul Technical University!
+Welcome to the GitHub space of **ITU BRL — Biomedical Research Lab** at Istanbul Technical University.  
+Under the direction of **Assoc. Prof. Isa Yildirim**, we conduct academic research at the intersection of biomedical imaging, artificial intelligence, and deep learning.
 
-## Introduction
+---
 
-ITU DBT is a dynamic academic research team led by Associate Professor Isa Yildirim, dedicated to advancing the field of Digital Breast Tomosynthesis (DBT). Our focus extends beyond DBT to include other imaging modalities such as low-dose CT and micro CT.
+## Research Themes
 
-## Research Area
+| Area | Scope |
+|------|-------|
+| **Low-Dose CT Reconstruction & Enhancement** | Algorithms that achieve diagnostic-quality CT images with significantly reduced radiation exposure. |
+| **Self-Supervised Learning for Medical Imaging** | Methods that leverage unlabeled data to improve performance on downstream clinical tasks. |
+| **Digital Breast Tomosynthesis (DBT) Simulation & Development** | Open-source simulation frameworks and reconstruction techniques for DBT. |
 
-Our primary research areas include:
+*We also remain engaged with related imaging modalities and emerging AI methodologies that advance healthcare.*
 
-- **DBT Simulation and Development:** Creating a toolbox for simulating and modeling DBT to enhance understanding and optimize imaging processes.
+---
 
-- **DBT Reconstruction Techniques:** Developing advanced reconstruction methods to improve the quality and accuracy of DBT imaging.
+## Collaboration & Contact
 
-- **AI and Deep Learning in Imaging:** Investigating the integration of artificial intelligence and deep learning for both DBT reconstruction and diagnosis methods.
+We welcome academic collaboration, joint grant proposals, and open-source contributions.
 
-- **Other Imaging Modalities:** Exploring low-dose CT and micro CT to broaden our expertise and contribute to advancements in various imaging technologies.
+- **Issues / Pull Requests:** Please open an issue or submit a PR in the relevant repository.  
+- **Email:** iyildirim@itu.edu.tr
 
-## Contact Us
+Together, we aim to push the frontiers of biomedical imaging and improve patient outcomes.
 
-For inquiries, collaboration opportunities, or to connect with our team, feel free to reach out.
-We welcome collaboration and engagement from the research and academic community to collectively drive innovation in medical imaging and contribute to the improvement of breast cancer diagnosis.
-
-Thank you for visiting ITU DBT's GitHub profile!
-
+---
